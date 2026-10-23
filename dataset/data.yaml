@@ -1,0 +1,6 @@
+path: D:/Lettuce/lettuce yolo/dataset
+train: images/train
+val: images/val
+names:
+  0: healthy
+  1: not healthy
